@@ -1,1 +1,1 @@
-Using Google and Baidu translate api.
+该客户端使用Google翻译和Baidu翻译的api,实现9国语言的翻译，支持发音。
