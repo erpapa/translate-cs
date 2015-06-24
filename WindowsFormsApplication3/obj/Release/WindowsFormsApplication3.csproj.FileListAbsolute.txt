@@ -1,0 +1,9 @@
+D:\project\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\NAudio.dll
+D:\project\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Form1.resources
+D:\project\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Form2.resources
+D:\project\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Properties.Resources.resources
+D:\project\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.csproj.GenerateResource.Cache
+D:\project\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\翻译者.exe
+D:\project\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\翻译者.pdb
+D:\project\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\翻译者.exe
+D:\project\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\翻译者.pdb
